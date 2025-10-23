@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+
+#Radis-Data
+redis-data/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory (e.g. nyc / istanbul)
+coverage/
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+.tmp/
+.temp/
+
+# Dependency directories
+jspm_packages/
+temp_auto_push.bat
+
+# Environment files
+.env.test
+.env.production
+.env.development
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Optional package-lock backups
+package-lock.json.*
+yarn.lock.*
+
+# PM2 logs
+.pm2/logs
+.gitignore
+temp_interactive_push.bat
